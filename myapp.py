@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello from Render PaaS Government"
+    return "Hello from Render PaaS Government Polytechnic"
 
 @app.route("/about")
 def about():
